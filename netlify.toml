@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/ecommerce"
+to = "/store-closed"
+status = 404
