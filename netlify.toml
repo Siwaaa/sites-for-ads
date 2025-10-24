@@ -1,3 +1,10 @@
+# Redirect with a 302 for avto pod zakaz
+[[redirects]]
+from = "/"
+to = "https://t.me/dancar24_bot"
+status = 302
+force = true
+
 [[redirects]]
 from = "/ecommerce"
 to = "/store-closed"
