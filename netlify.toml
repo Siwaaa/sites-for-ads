@@ -5,6 +5,13 @@ to = "https://t.me/dancar24_bot"
 status = 302
 force = true
 
+# Redirect with a 302 for taxi expo
+[[redirects]]
+from = "/expo"
+to = "https://t.me/expo_taxi24_bot"
+status = 302
+force = true
+
 [[redirects]]
 from = "/ecommerce"
 to = "/store-closed"
