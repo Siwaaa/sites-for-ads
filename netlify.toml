@@ -5,6 +5,13 @@ to = "https://t.me/dancar24_bot"
 status = 302
 force = true
 
+# Redirect with a 302 for avto pod zakaz
+[[redirects]]
+from = "/topcars"
+to = "https://t.me/topcars24_bot"
+status = 302
+force = true
+
 # Redirect with a 302 for taxi expo
 [[redirects]]
 from = "/expo"
